@@ -1,0 +1,13 @@
+{
+  "name": "ui5.walkthrough",
+  "version": "1.2.0",
+  "description": "The UI5 walkthrough application.",
+  "scripts": {
+    "start": "ui5 serve -o index.html"
+  },
+  "author": "Eric Adalberto Rodríguez Sánchez",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "@ui5/cli": "^4.0.12"
+  }
+}
