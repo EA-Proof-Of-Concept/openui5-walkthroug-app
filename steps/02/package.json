@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "name": "openui5.walkthrough.ts",
+  "description": "OpenUI5: Tutorial paso a paso con Typescript.",
+  "author": "Eric Adalberto Rodríguez Sánchez",
+  "license": "Apache-2.0",
+  "keywords": [
+    "openui5",
+    "typescript"
+  ],
+  "scripts": {
+    "start": "ui5 serve -o index.html"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4.0.12"
+  }
+}
