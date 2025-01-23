@@ -1,0 +1,22 @@
+{
+  "_version": "1.69.0",
+  "sap.app": {
+    "id": "openui5.walkthrough.ts",
+    "title": "UI5 TypeScript Walkthrough",
+    "type": "application",
+    "applicationVersion": {
+      "version": "1.0.0"
+    }
+  },
+  "sap.ui": {
+    "technology": "UI5",
+    "icons": {
+      "icon": "https://sdk.openui5.org/resources/sap/ui/core/mimes/logo/txtonly_16x16.ico"
+    },
+    "deviceTypes": {
+      "desktop": true,
+      "tablet": true,
+      "phone": true
+    }
+  }
+}
