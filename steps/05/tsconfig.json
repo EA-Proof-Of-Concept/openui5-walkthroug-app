@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "baseUrl": "./",
+    "module": "NodeNext",
+    "moduleResolution": "nodenext",
+    "paths": {
+      "openui5/walkthrough/ts/*": ["./webapp/*"]
+    },
+    "rootDir": "./webapp",
+    "target": "ESNext",
+    "skipLibCheck": true,
+    "strict": true,
+    "strictPropertyInitialization": false
+  },
+  "include": ["./webapp/**/*"]
+}
