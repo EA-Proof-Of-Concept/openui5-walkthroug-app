@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mvc:View
+    xmlns="sap.m"
+    xmlns:mvc="sap.ui.core.mvc">
+    
+    <Text text="¡Hola, soy OpenUI5! Estoy utilizando una vista XML."/>
+
+</mvc:View>
