@@ -41,6 +41,6 @@ export default class App extends Controller {
         const message: string = resource.getText( "control.messageToast.text",
             [name] ) || 'Propiedad no establecida.';
         
-        MessageToast.show( `OpenUI5 dice: ${message}` );
+        MessageToast.show( message );
     }
 }
