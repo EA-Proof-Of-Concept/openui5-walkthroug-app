@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "baseUrl": "./",
+    "module": "Node16",
+    "moduleResolution": "node16",
+    "paths": {
+      "openui5/walkthrough/ts/*": ["./webapp/*"]
+    },
+    "rootDir": "./webapp",
+    "target": "es2023",
+    "skipLibCheck": true,
+    "strict": true,
+    "strictPropertyInitialization": false
+  },
+  "include": ["./webapp/**/*"]
+}
